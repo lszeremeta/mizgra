@@ -1,0 +1,2 @@
+include mizgra/resources/metadata.xml
+include mizgra/resources/rdf_data.nt

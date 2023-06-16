@@ -1,0 +1,17 @@
+<mm:metadata xmlns:mm="https://ii.uwb.edu.pl/mizarmetadata" xmlns:dc="http://purl.org/dc/terms/">
+    <dc:creator>Dominik Tomaszuk</dc:creator>
+    <dc:creator>Łukasz Szeremeta</dc:creator>
+    <dc:creator>Artur Korniłowicz</dc:creator>
+    <dc:description>The Mizar system consists of a formal language for writing mathematical definitions and proofs, a proof assistant, which is able to mechanically check proofs written in this language, and a library of formalized mathematics, which can be used in the proof of new theorems.</dc:description>
+    <dc:language>en-US</dc:language>
+    <dc:license>https://creativecommons.org/licenses/by/4.0/</dc:license>
+    <dc:publisher>University of Bialystok</dc:publisher>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:source>https://mizar.uwb.edu.pl</dc:source>
+    <dc:subject>mathematics</dc:subject>
+    <dc:subject>knowledge graph</dc:subject>
+    <dc:subject>property graph</dc:subject>
+    <dc:title>Mizar Mathematical Library Knowledge Graph</dc:title>
+    <dc:type>Dataset</dc:type>
+    <dc:date>CURRENT_DATE</dc:date>
+</mm:metadata>

@@ -1,0 +1,5 @@
+*
+!requirements.txt
+!mizgra/*.py
+!mizgra/outputs/*.py
+!mizgra/resources/*
