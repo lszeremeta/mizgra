@@ -1,5 +1,7 @@
 # mizgra
 
+[![PyPI](https://img.shields.io/pypi/v/mizgra)](https://pypi.org/project/mizgra/) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/mizgra) [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/lszeremeta/mizgra?label=Docker%20image%20size)](https://hub.docker.com/r/lszeremeta/mizgra)
+
 Converts Mizar ESX MML mathematical data to property graph formats - GraphML, YARS-PG. Produce files ready to import to various graph databases, including Neo4j. Supports external RDF data in various formats.
 
 To save output to file, add `> /path/to/output.graphml` to the end of the command, e.g.:
