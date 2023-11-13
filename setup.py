@@ -10,7 +10,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mizgra",
-    version="1.0.0",
+    version="1.0.1",
     author="Łukasz Szeremeta",
     author_email="l.szeremeta.dev+mizgra@gmail.com",
     install_requires=["importlib-resources>=2.0.0", "lxml>=4.9.2", "rdflib>=6.2.0"],

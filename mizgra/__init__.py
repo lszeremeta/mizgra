@@ -10,4 +10,4 @@ Read more about the MMLKG project at https://mmlkg.uwb.edu.pl.
 
 __author__ = 'Łukasz Szeremeta'
 __email__ = 'l.szeremeta.dev+mizgra@gmail.com'
-__version__ = '1.0.0'
+__version__ = '1.0.1'
